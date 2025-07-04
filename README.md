@@ -67,7 +67,7 @@ Out of 3 XAI methods Grad-CAM looks more promising. Here's some reasons:
   -  Consistent Across Samples: Unlike LIME and saliency, Grad-CAM is less sensetive to the noise
   -  Model aware: Grad-CAM uses internal convolutional feature maps and gradients, making it more faithful to our actual prediction model
 
-![](https://github.com/bekhkamolov/XAI-methods-on-Cats-and-Dogs-Image-Classification-Dataset/blob/main/generated_images/comparison.png)
+![](https://github.com/bekhkamolov/XAI-methods-on-Cats-and-Dogs-Image-Classification-Dataset/blob/main/generated_images/comparison.png) 
 
 ## References
   *  For the classifiaction model RestNet50 this [github](https://github.com/nachi-hebbar/Transfer-Learning-ResNet-Keras) repository is used
